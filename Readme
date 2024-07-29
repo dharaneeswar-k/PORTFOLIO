@@ -1,0 +1,20 @@
+Portfolio Website
+This repository contains the source code for my personal portfolio website. The website is designed to showcase my skills, projects, and contact information in a clean and responsive layout.
+
+Features:
+Home: Introduction and a brief about me.
+About: Detailed information about my education, passion, philosophy, career goals, and personal attributes.
+Skills: A showcase of my technical skills with progress indicators.
+Projects: Highlights of my key projects with descriptions and links to live demos.
+Contact: Contact information with links to my email, LinkedIn, GitHub, and Instagram profiles.
+Footer: Social links and copyright information.
+Technologies Used:
+HTML: For structuring the content.
+CSS: For styling the website.
+JavaScript: For interactivity.
+Bootstrap Icons: For icons.
+
+Live Demo:
+Check out the live version of the portfolio.
+
+Feel free to explore and provide feedback!
